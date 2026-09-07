@@ -204,7 +204,7 @@
 
     async function loadLinks(){
       try {
-        const res = await fetch("https://adking663.github.io/CSCBAHUARI/links.json");
+        const res = await fetch("https://csehubweb.github.io/CSC/links.json");
         links = await res.json();
         links.forEach(l => categories.add(l.category));
 

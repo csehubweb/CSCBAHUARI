@@ -2,15 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <!-- Home Page -->
   <url>
-    <loc>https://adking663.github.io/CSCBAHUARI/</loc>
-    <lastmod>2025-08-23</lastmod>
+    <loc>https://csehubweb.github.io/CSC/</loc>
+    <lastmod>2026-09-07</lastmod>
     <priority>1.0</priority>
   </url>
 
-  <!-- Extra Page: b -->
+  <!-- Services Page -->
   <url>
-    <loc>https://adking663.github.io/CSCBAHUARI/b</loc>
-    <lastmod>2025-08-23</lastmod>
+    <loc>https://csehubweb.github.io/CSC/links.html</loc>
+    <lastmod>2026-09-07</lastmod>
     <priority>0.8</priority>
   </url>
 </urlset>
